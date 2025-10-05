@@ -6,3 +6,6 @@ This is a short history quiz on miscellaneous topics. When the participant gets 
 Rethinking a problem and being guided toward an answer is often a better way of learning than being passively told the right way to do something.
 
 This file requires Python version 3.13
+
+## **Different Topics**
+The game has the ability to allow the user to do different quizes based on the topic they select
